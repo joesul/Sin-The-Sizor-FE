@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+canvas {
+  border: 5px solid black;
+  display: block;
+  margin: 0 auto;
+  background: url("http://hdwalltop.com/wp-content/uploads/2015/02/space-black-background-tumblr-code.jpg");
+  position: absolute;
+}
+
+.App {
+  height: 500px;
+}

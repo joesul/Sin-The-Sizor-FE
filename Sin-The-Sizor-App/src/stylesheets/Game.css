@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  height: 350px;
+  width: 525px;
+  border: 5px solid green;
+}
+
+.grid {
+  height: 100px;
+  width: 24%;
+  border: 3px solid orange;
+}
